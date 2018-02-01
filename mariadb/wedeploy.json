@@ -1,0 +1,10 @@
+{
+	"id": "mariadb",
+	"image": "mariadb",
+	"env": {
+		"MYSQL_DATABASE": "lportal",
+		"MYSQL_ROOT_PASSWORD": "passw0rd"
+	},
+	"memory": 2048,
+	"cpu": 2
+}
