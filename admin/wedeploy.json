@@ -1,0 +1,6 @@
+{
+	"id": "admin",
+	"image": "adminer",
+	"memory": 1024,
+	"cpu": 1
+}
