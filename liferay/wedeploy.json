@@ -1,0 +1,6 @@
+{
+	"id": "liferay",
+	"image": "wedeploy/liferay:dxp-sp4-20170825",
+	"memory": 3072,
+	"cpu": 3
+}
