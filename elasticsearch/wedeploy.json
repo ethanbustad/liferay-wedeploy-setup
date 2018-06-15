@@ -4,6 +4,9 @@
 	"env": {
 		"ES_JAVA_OPTS": "-Xms1536m -Xmx1536m"
 	},
+	"volumes": {
+		"es": "/usr/share/elasticsearch/data"
+	},
 	"memory": 2048,
 	"zeroDowntime": false
 }
